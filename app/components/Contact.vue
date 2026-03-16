@@ -49,7 +49,7 @@
           <!-- Social -->
           <div class="flex gap-4 mt-8">
             <a href="https://github.com/heanLiza" class="socialBtn">GitHub</a>
-            <a href="www.linkedin.com/in/hean-liza-734030350" class="socialBtn">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/hean-liza-734030350/" class="socialBtn">LinkedIn</a>
             <a href="https://t.me/areal_lizaa" class="socialBtn">Telegram</a>
           </div>
 
