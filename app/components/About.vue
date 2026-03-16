@@ -75,12 +75,14 @@
 
               <!-- Languages (kept same but honest positioning) -->
               <div class="mt-7 flex flex-wrap gap-2">
-                <span class="chip">Nuxt</span>
                 <span class="chip">Vue</span>
+                <span class="chip">Nuxt</span>
                 <span class="chip">Tailwind</span>
+                <span class="chip">Bootstrap</span>
                 <span class="chip">Laravel (Basic)</span>
                 <span class="chip">REST API Integration</span>
                 <span class="chip">MySQL (Basic)</span>
+                <span class="chip border-purple-500/30">Express.js (Basic)</span>
               </div>
 
               <!-- Mini grid -->

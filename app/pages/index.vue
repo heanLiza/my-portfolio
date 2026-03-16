@@ -4,7 +4,7 @@
     <About />
     <Skills />
     <Education/>
-    <!-- <Projects /> -->
+    <Project />
     <Contact />
   </main>
 </template>

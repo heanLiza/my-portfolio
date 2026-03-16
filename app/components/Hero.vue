@@ -47,13 +47,15 @@
               ></div>
             </NuxtLink>
 
-            <button
+           <a
+              href="/heanlisa - CV.pdf"
+              download="Hean_Lisa_CV.pdf"
               class="rounded-2xl border border-white/10 bg-white/5 px-10 py-4 font-bold text-white 
                     transition-all duration-300 hover:bg-white/10 hover:border-white/20 
-                    hover:scale-105 active:scale-95"
+                    hover:scale-105 active:scale-95 text-center"
             >
               Download CV
-            </button>
+            </a>
           </div>
           <div class="flex flex-wrap justify-center lg:justify-start gap-6 pt-12 opacity-30 grayscale hover:grayscale-0 transition-all duration-500">
             <span class="text-sm font-black tracking-widest text-white"># NUXT3</span>

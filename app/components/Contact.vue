@@ -33,7 +33,7 @@
 
           <div class="infoBlock">
             <h3>Email</h3>
-            <p>heanliza33@example.com</p>
+            <p>heanliza33@gmail.com</p>
           </div>
 
           <div class="infoBlock">
@@ -48,9 +48,9 @@
 
           <!-- Social -->
           <div class="flex gap-4 mt-8">
-            <a href="#" class="socialBtn">GitHub</a>
-            <a href="#" class="socialBtn">LinkedIn</a>
-            <a href="#" class="socialBtn">Telegram</a>
+            <a href="https://github.com/heanLiza" class="socialBtn">GitHub</a>
+            <a href="www.linkedin.com/in/hean-liza-734030350" class="socialBtn">LinkedIn</a>
+            <a href="https://t.me/areal_lizaa" class="socialBtn">Telegram</a>
           </div>
 
         </div>

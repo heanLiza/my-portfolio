@@ -62,7 +62,7 @@
             <p class="subtitle">ISTAD</p>
             <p class="descSmall">
               Successfully completed 3-month scholarship-based Web Junior program,
-              focusing on HTML, CSS, and foundational web development skills.
+              focusing on foundational web development skills.
             </p>
             <p class="date">2025</p>
           </div>

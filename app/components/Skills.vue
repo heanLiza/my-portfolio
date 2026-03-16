@@ -95,12 +95,12 @@ const inViewHeader = ref(false)
 let observer
 
 const skills = [
-  { name: 'HTML & CSS', description: 'Structured layouts and responsive design.', level: 90 },
-  { name: 'JavaScript', description: 'Dynamic UI and interaction logic.', level: 40 },
-  { name: 'Vue.js', description: 'Component-based frontend development.', level: 60 },
-  { name: 'Nuxt (Learning)', description: 'Exploring SSR and modern architecture.', level: 50 },
-  { name: 'Tailwind & Bootstrap', description: 'Modern UI frameworks.', level: 85 },
-  { name: 'Laravel & MySQL', description: 'Basic backend & database knowledge.', level: 65 }
+  { name: 'Vue.js & Nuxt', description: 'Component-based frontend & SSR architecture.', level: 70 },
+  { name: 'JavaScript (ES6+)', description: 'Core logic for both Frontend and Backend.', level: 65 },
+  { name: 'Node.js & Express', description: 'Building scalable REST APIs and server-side logic.', level: 50 }, // New Focus
+  { name: 'Tailwind & UI/UX', description: 'Modern styling and responsive interface design.', level: 85 },
+  { name: 'Database Management', description: 'Designing schemas with MySQL & MongoDB.', level: 60 },
+  { name: 'Laravel (Legacy)', description: 'Familiarity with PHP-based backend systems.', level: 55 }
 ]
 
 const tools = [
