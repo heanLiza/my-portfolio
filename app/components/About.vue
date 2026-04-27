@@ -67,10 +67,11 @@
               </div>
 
               <p class="mt-6 text-gray-400 leading-relaxed">
-                I specialize in creating clean, responsive, and interactive
+                I specialize in building clean, responsive, and interactive
                 web interfaces using modern frontend technologies.
-                While I have basic backend understanding,
-                my strength lies in building structured and polished user interfaces.
+                I also work with backend development to create fully functional
+                web applications. My main focus is delivering structured,
+                polished, and user-friendly interfaces.
               </p>
 
               <!-- Languages (kept same but honest positioning) -->
@@ -154,7 +155,7 @@
             <!-- Stats -->
             <div class="mt-10 grid grid-cols-3 gap-5">
               <div class="stat">
-                <p class="statNum">5+</p>
+                <p class="statNum">3+</p>
                 <p class="statLabel">Projects</p>
               </div>
               <div class="stat">

@@ -97,10 +97,10 @@ let observer
 const skills = [
   { name: 'Vue.js & Nuxt', description: 'Component-based frontend & SSR architecture.', level: 70 },
   { name: 'JavaScript (ES6+)', description: 'Core logic for both Frontend and Backend.', level: 65 },
-  { name: 'Node.js & Express', description: 'Building scalable REST APIs and server-side logic.', level: 50 }, // New Focus
+  { name: 'Node.js & Express', description: 'Building scalable REST APIs and server-side logic.', level: 70 }, // New Focus
   { name: 'Tailwind & UI/UX', description: 'Modern styling and responsive interface design.', level: 85 },
   { name: 'Database Management', description: 'Designing schemas with MySQL & MongoDB.', level: 60 },
-  { name: 'Laravel (Legacy)', description: 'Familiarity with PHP-based backend systems.', level: 55 }
+  { name: 'Laravel (Legacy)', description: 'Familiarity with PHP-based backend systems.', level: 60 }
 ]
 
 const tools = [
