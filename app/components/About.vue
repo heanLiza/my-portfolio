@@ -16,12 +16,12 @@
         <h2 class="mt-6 text-4xl md:text-6xl font-extrabold leading-tight text-white">
           Focused on
           <span class="bg-gradient-to-r from-purple-400 to-indigo-400 bg-clip-text text-transparent">
-            Frontend Development
+            Full Stack Development
           </span>
         </h2>
 
         <p class="mt-5 text-base md:text-lg leading-relaxed text-gray-400">
-          I’m a frontend developer passionate about building modern,
+          I’m a Junior Web developer passionate about building modern,
           responsive, and visually polished web interfaces.
           I focus on clean UI structure, smooth user experience,
           and writing maintainable frontend code.

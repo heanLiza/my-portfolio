@@ -22,7 +22,7 @@
             <span class="bg-gradient-to-r from-purple-400 to-indigo-400 bg-clip-text text-transparent">
               Liza
             </span><span class="text-purple-400">.</span><br />
-            <span class="opacity-90">Frontend Developer</span>
+            <span class="opacity-90">Web Developer</span>
           </h1>
 
           <p class="mx-auto lg:mx-0 max-w-xl text-lg leading-relaxed text-gray-400 md:text-xl">

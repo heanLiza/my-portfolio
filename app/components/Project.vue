@@ -60,6 +60,14 @@
 
 <script setup>
 const projects = [
+
+{
+    title: 'Pralong',
+    description: 'A comprehensive Quiz Management System designed for instructors to create, manage, and analyze student examination results in real-time.',
+    tech: ['Vue.js', 'Node.js', 'Bootstrap', 'MySQL'],
+    link: 'https://qmlsystem.tdomain.work.gd/' 
+  },
+
   {
     title: 'ReabList',
     description: 'A productivity-focused to-do list application with dynamic task management and real-time state handling.',
